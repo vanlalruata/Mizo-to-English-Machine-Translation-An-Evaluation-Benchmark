@@ -1,5 +1,5 @@
 # Mizo-to-English Parallel Corpus
 This Project include Mizo-to-English Parallel Corpus freely.
 
-# Paper and Code
-The paper is underreview, once the paper is accepted, the code will be made available.
+# Paper
+Vanlalruata Hnamte, Haulai Thangkhanhau, Jamal Hussain, Chawngthu Lalnunmawii, Laldinsangi Tlaisun, Vanlalruata, "Mizo to English Machine Translation: An Evaluation Benchmark," International Conference on Futuristic Technologies 2022 (INCOFT 2022), 2022
