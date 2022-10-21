@@ -1,2 +1,3 @@
 # Code
-The code will be made available once the paper is accepted. Stay tune.
+
+Paper is aready accepted. Code is available above.
