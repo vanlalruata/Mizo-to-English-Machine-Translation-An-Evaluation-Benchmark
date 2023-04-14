@@ -1,3 +1,17 @@
+# Mizo to English Machine Translation: An Evaluation Benchmark
+
+# Publisher
+IEEE
+
+# Autors
+Vanlalruata Hnamte and Haulai Thangkhanhau and Jamal Hussain and Chawngthu Lalnunmawii and Laldinsangi Tlaisun and Vanlalruata
+
+# Date of Publication
+13 April 2023
+
+# Abstract
+Speech is the most natural method for people to convey emotions and communicate. Traditional input techniques are used for machine communication. Communication across distinct regional languages is always unavoidable and takes significant technological effort to make meaningful and effective understanding. Methods of Machine Translation (MT) have been developed in an effort to circumvent this obstacle. Neural Machine Translation (NMT) is one of the projects that has lately seen a significant improvement in terms of human judgement compared to traditional methods such as phrase-based machine translation (PMT) and statistical machine translation (SMT). Therefore, developments in NMT have an influence on the perceived difficulty of humans. Numerous internet translation and mobile application solutions, such as Google Translate, etc., were created to solve this issue. However, such simple translation methods are not accurate for the parallel MizoEnglish languages. In this research, we have attempted to improve language translation by using the superior capacity of NMT to boost the Mizo-to-English translation in the BiLingual Evaluation Understudy (BLEU) measure and achieved 42.65 BLEU Score on the 4 grams. Publicly available Mizo-English corpus was developed.
+
 # Mizo-to-English Parallel Corpus
 This Project include Mizo-to-English Parallel Corpus freely.
 
