@@ -25,4 +25,4 @@ https://doi.org/10.1109/INCOFT55651.2022.10094376
 https://www.researchgate.net/publication/370004855_Mizo_to_English_Machine_Translation_An_Evaluation_Benchmark
 
 # Note:
-If you find this code and paper useful, kindly consider to cite from your valuable work.
+You may get different result, but, it is all depend on your dataset/corpus. If you find this code and paper useful, kindly consider to cite from your valuable work.
